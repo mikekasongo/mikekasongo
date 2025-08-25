@@ -1,5 +1,3 @@
-# mikekasongo
-
 # Hi, I'm Mike Kasongo 👋  
 
 📊 **Data Science & Business Analytics Professional**  
